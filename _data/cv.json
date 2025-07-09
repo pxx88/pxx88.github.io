@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Peixuan(Nancy) Xu",
+    "email": "pxu73@wisc.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://pxx88.github.io",
+    "summary": "I am a graduate student in Psychology: Data Science in Human Behavior program at University of Wisconsin - Madison",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Madison",
       "countryCode": "US",
       "region": ""
     },
@@ -25,16 +25,16 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "pxx88",
+        "url": "https://github.com/pxx88"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Wisconsin - Madison",
+      "area": "Psychology",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
