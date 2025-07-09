@@ -13,7 +13,7 @@ title                    : "Peixuan(Nancy) Xu"
 title_separator          : "-"
 name                     : &name "Peixuan(Nancy) Xu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://pxx88.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pxx88/pxx88.github.io"
 
@@ -26,10 +26,10 @@ author:
   name             : "Peixuan(Nancy) Xu"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Madison, WI"
   employer         : "University of Wisconsin - Madison"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "pxu73@wisc.edu" 
 
   # Academic websites
   academia         : # URL
