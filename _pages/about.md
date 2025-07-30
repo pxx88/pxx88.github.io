@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 Hi! I’m **Peixuan Xu**, a graduate student in the Psychology: Data Science in Human Behavior program at the **University of Wisconsin–Madison**, where I explore how behavioral data can be used to better understand human cognition, emotion, and social dynamics. With a strong foundation in psychology and growing expertise in data science, I’m passionate about combining research, analytics, and community outreach to address mental health and behavior-related questions.
 
 ## 🎓 Education
