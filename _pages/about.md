@@ -12,54 +12,69 @@ Hi! I’m **Peixuan Xu**, a graduate student in the Psychology: Data Science in 
 ## 🎓 Education
 
 - **University of Wisconsin–Madison**  
-  *Master of Science in Psychology*  
-  GPA: 3.50 | Expected: December 2025  
-  - Relevant Coursework: Programming for Human Behavioral Data Science, Design & Analysis of Psychological Experiments, Intro to Applied Machine Learning  
-  - Scholarship: Excellence in Data Science Scholarship  
+  *Master of Science in Psychology: Data Science in Human Behavior*  
+  GPA: 3.62 | Graduated: December 2025
+  - Scholarship: Excellence in Data Science Scholarship
+  - Relevant Coursework: Programming for Human Behavioral Data Science, Design & Analysis of Psychological Experiments, Applied Machine Learning for Behavioral Data Science   
 
 - **University of California, San Diego**  
   *Bachelor of Arts in Psychology*  
   GPA: 3.67 | Graduated: June 2023  
   - Relevant Coursework: Psychological Disorders of Childhood, Clinical Assessment and Treatment, Interpersonal Relationship, Behavior Modification, Psychology and Law  
 
-- **Mt. San Antonio College, Walnut, CA**  
-  *Associate in Arts for Transfer in Psychology*  
+- **Mt. San Antonio College**  
+  *Associate in Arts in Psychology*  
   GPA: 3.78 | Graduated: May 2021  
   - Award: International Student Program Awards  
   - Relevant Coursework: Research in Psychology, Abnormal Psychology, Child Development, Elementary Statistics
 
-## 💼 Experience
+## 💼 Working Experience
 
-- **Undergraduate Research Symposium Moderator**  
-  *University of Wisconsin–Madison* (April 2025)  
-  - Introduced 15+ research presenters and moderated Q&A sessions  
-  - Supported smooth communication between 100+ attendees and presenters  
+- **Instructional Paraeducator**
+  *Ro Health, Los Angeles* (Present)
+  - Implemented behavior intervention plans under BCBA supervision, conducted client assessments, and delivered direct support to improve communication, social skills, and daily living abilities
+  - Maintained accurate, HIPAA-compliant documentation and monitored client progress for BCBA review
+  - Collaborated with families to ensure consistent behavior strategies and engaged in ongoing professional development
+
+- **Teaching Assistant**  
+  *University of Wisconsin–Madison* (Oct - Dec 2025)  
+  - PSYCH 225: Research Methods with Dr. Julia Greenberg
+  - Evaluated short-answer exam responses for ~144 students across two course sections
+  - Ensured consistency and fairness in grading with attention to detail and accuracy
+  - Collaborated with graders and instructor to deliver timely assessment feedback
 
 - **Director of Social Services**  
   *Life Skills Training and Educational Programs, Los Angeles* (Oct 2023 – May 2024)  
   - Developed and led 10+ mental health workshops for seniors in affordable housing  
   - Improved mental health engagement among 50+ residents through activities and support services  
 
-- **Director of Public Affairs / Publicity Designer**  
-  *MOOD Psychology, UC San Diego* (Jan 2022 – June 2023)  
-  - Coordinated meetings and DEI workshops; revised club constitution  
-  - Managed global peer mentoring programs and designed promotional materials  
-  - Increased club visibility by 300+ followers via social media and WeChat campaigns  
-
-- **Volunteer**  
-  *Odyssey of the Mind, Shanghai* (Nov 2017)  
-  - Organized a 3-day creative problem-solving event for 300+ students  
-  - Supervised logistics and facilitated learning games  
-
 ## 🧠 Skills & Tools
 
 - **Languages**: Mandarin (Native), English (Fluent)  
 - **Programming & Statistics**: Python, R, SPSS, MATLAB, SQL, Machine Learning, Data Visualization  
-- **Tools**: Microsoft Office Suite, Google Workspace, Canva, Xiumi, iMovie, Capcut  
-- **Other**: Data Management, Research Communication, Workshop Facilitation
+- **Tools**: Microsoft Office Suite, Google Workspace, Canva, Xiumi, iMovie, Capcut, Prolific, Qualtrics 
+- **Other**: Data Management, Research, Communication, Workshop Facilitation
 
+## ♻️ Volunteer Experience
+
+- **Undergraduate Research Symposium Moderator**  
+  *University of Wisconsin–Madison, WI* (April 2025)  
+  - Introduced 15+ research presenters and moderated Q&A sessions  
+  - Supported smooth communication between 100+ attendees and presenters
+ 
+- **Director of Public Affairs & Publicity Designer**  
+  *MOOD Psychology, UC San Diego* (Jan 2022 – June 2023)  
+  - Coordinated meetings and DEI workshops; revised club constitution  
+  - Managed global peer mentoring programs and designed promotional materials  
+  - Increased club visibility by 300+ followers via social media and WeChat campaigns
+
+- **Odyssey of the Mind**
+  *Shanghai, China* (Nov 2017)
+  - Organized a 3-day creative problem-solving event for 300+ students  
+  - Supervised logistics and facilitated learning games
+ 
 ## 📬 Contact
 
-- 📧 Email: [pxu73@wisc.edu](mailto:pxu73@wisc.edu)  
+- 📧 Email: [nancyxu3721@gmail.com](mailto:nancyxu3721@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/pxxu](https://linkedin.com/in/pxxu) 
 
