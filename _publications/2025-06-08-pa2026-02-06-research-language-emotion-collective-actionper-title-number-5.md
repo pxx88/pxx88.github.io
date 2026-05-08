@@ -6,7 +6,7 @@ permalink: /research/2026-02-06-research-language-emotion-collective-action
 excerpt: 'This research is about the emotion in certain lingustic features and relationship with both online and offline engagement.'
 date: 2026-02-06
 venue: 'GitHub Journal of Bugs'
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://github.com/chloeslau/social-media-2026/blob/main/Language_Emotion_CollectiveAction_Xu_Lau.pdf)'
+paperurl: 'https://github.com/chloeslau/social-media-2026/blob/main/Language_Emotion_CollectiveAction_Xu_Lau.pdf'
 citation: 'n/a'
 ---
 
